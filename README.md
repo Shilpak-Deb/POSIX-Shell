@@ -24,7 +24,7 @@ make
 
 ## Folder Contents:
 
-**( Folder Name**: POSIX_Shell **)**
+**( Folder Name**: POSIX Shell **)**
 
 ### makefile:
 
