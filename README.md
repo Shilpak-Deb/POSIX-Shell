@@ -24,7 +24,7 @@ make
 
 ## Folder Contents:
 
-**( Folder Name**: 2024201072_Assignment2 **)**
+**( Folder Name**: POSIX_Shell **)**
 
 ### makefile:
 
